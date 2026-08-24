@@ -1,3 +1,3 @@
 export default async function decorate(block) {
-  console.log('Harsha is in');
+  console.log('Harsha is in 2');
 }
